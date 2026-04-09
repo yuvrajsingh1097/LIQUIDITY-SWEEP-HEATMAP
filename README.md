@@ -32,3 +32,10 @@ pip install -r requirements.txt
 
 
 
+
+
+A model that predicts $189.30 when actual is $191.20 has a $1.90 error. But if both the prediction and reality went UP from $188.00, the model got the direction right — the thing that matters for trading. MAPE of 1% with 57% directional accuracy is a more complete picture than RMSE alone.
+
+
+
+
