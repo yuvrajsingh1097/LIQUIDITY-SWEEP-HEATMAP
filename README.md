@@ -14,7 +14,7 @@ pyyaml==6.0.1
 
 1. **Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt fefsc
 
 
 
